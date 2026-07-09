@@ -25,4 +25,4 @@ tecnologias que utilizo e projetos de forma clara, organizada e acessível.
 - Aplicação de boas práticas de HTML semântico
 
 ## Acesse o projeto
-[land-page-pessoal-atualizada.vercel.app](https://land-page-pessoal-atualizada.vercel.app)
+[land-page-pessoal-atualizada.vercel.app](https://portfolio-isaque-matheus.vercel.app/)
